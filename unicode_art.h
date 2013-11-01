@@ -1,0 +1,23 @@
+#include "constants.h"
+extern wchar_t pwup[];
+extern wchar_t pwup_safe[];
+extern wchar_t tickbox[];
+extern wchar_t speed_icon[num_speedset];
+extern wchar_t explo[];
+extern wchar_t icon_portale[2][3];
+extern wchar_t icon_portale_safe[2][3];
+extern wchar_t wall;
+extern wchar_t wall_safe;
+extern wchar_t snakebody[4][4];
+extern wchar_t snakebody2x[4][4][2];
+extern wchar_t snakebody2x_safe[4][4][2];
+extern wchar_t head[2][4];
+extern wchar_t head2x[2][4][2];
+extern wchar_t head2x_safe[2][4][2];
+extern wchar_t tail[4];
+extern wchar_t tail2x[4][2];
+extern wchar_t tail2x_safe[4][2];
+extern char scritta_pausa[5][50];
+extern char scritta_gameover[5][85];
+extern char scritta_titolo[5][70];
+extern char scritta_congrats[5][90];

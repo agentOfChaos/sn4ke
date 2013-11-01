@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1383315980 source:/home/michele/Programmi_linux/sn4ke/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ncursesw/curses.h>
+	<wchar.h>
+	<math.h>
+	<locale.h>
+	"structures.h"
+	"unicode_art.h"
+	"prototypes.h"
+	"unicode_art.h"
+
+1382873210 source:/home/michele/Programmi_linux/sn4ke/blast_anim.c
+	<stdio.h>
+	<stdlib.h>
+	<ncursesw/curses.h>
+	<wchar.h>
+	"structures.h"
+	"blast_anim.h"
+	"prototypes.h"
+	"unicode_art.h"
+
+1383317333 /home/michele/Programmi_linux/sn4ke/structures.h
+	"constants.h"
+
+1382803568 /home/michele/Programmi_linux/sn4ke/blast_anim.h
+
+1383306755 /home/michele/Programmi_linux/sn4ke/unicode_art.h
+	"constants.h"
+
+1383240469 /home/michele/Programmi_linux/sn4ke/constants.h
+
+1383315195 /home/michele/Programmi_linux/sn4ke/prototypes.h
+	<openssl/md5.h>
+	"constants.h"
+
+1383317914 source:/home/michele/Programmi_linux/sn4ke/physics.c
+	<stdio.h>
+	<stdlib.h>
+	<ncursesw/curses.h>
+	"structures.h"
+	"prototypes.h"
+	"unicode_art.h"
+
+1383307597 source:/home/michele/Programmi_linux/sn4ke/graphics.c
+	<stdio.h>
+	<stdlib.h>
+	<ncursesw/curses.h>
+	<wchar.h>
+	<string.h>
+	"structures.h"
+	"prototypes.h"
+	"unicode_art.h"
+
+1383240482 source:/home/michele/Programmi_linux/sn4ke/game_loop.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ncursesw/curses.h>
+	"structures.h"
+	"prototypes.h"
+	"unicode_art.h"
+
+1383218313 source:/home/michele/Programmi_linux/sn4ke/comandi.c
+	<stdio.h>
+	<stdlib.h>
+	<ncursesw/curses.h>
+	<wchar.h>
+	"structures.h"
+	"prototypes.h"
+	"unicode_art.h"
+
+1383316677 source:/home/michele/Programmi_linux/sn4ke/random_drops.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ncursesw/curses.h>
+	<math.h>
+	"structures.h"
+	"prototypes.h"
+	"unicode_art.h"
+
+1383261082 source:/home/michele/Programmi_linux/sn4ke/unicode_art.c
+	<wchar.h>
+	"constants.h"
+
+1383217847 source:/home/michele/Programmi_linux/sn4ke/leaderboard.c
+	<stdio.h>
+	<stdlib.h>
+	<ncursesw/curses.h>
+	<wchar.h>
+	<unistd.h>
+	"structures.h"
+	"unicode_art.h"
+	"prototypes.h"
+	"unicode_art.h"
+
+1383317399 source:/home/michele/Programmi_linux/sn4ke/parse_cmd.c
+	<stdio.h>
+	<stdlib.h>
+	"structures.h"
+	"unicode_art.h"
+	"prototypes.h"
+	"constants.h"
+
+1383308733 source:/home/michele/Programmi_linux/sn4ke/ai.c
+	<stdio.h>
+	<stdlib.h>
+	"structures.h"
+	"prototypes.h"
+

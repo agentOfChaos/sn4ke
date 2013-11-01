@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="ai.c" open="1" top="0" tabpos="3">
+		<Cursor position="3797" topLine="129" />
+	</File>
+	<File name="blast_anim.c" open="1" top="0" tabpos="15">
+		<Cursor position="166" topLine="0" />
+	</File>
+	<File name="blast_anim.h" open="1" top="0" tabpos="16">
+		<Cursor position="20" topLine="0" />
+	</File>
+	<File name="comandi.c" open="1" top="0" tabpos="11">
+		<Cursor position="1798" topLine="45" />
+	</File>
+	<File name="constants.h" open="1" top="1" tabpos="5">
+		<Cursor position="745" topLine="4" />
+	</File>
+	<File name="game_loop.c" open="1" top="0" tabpos="6">
+		<Cursor position="3296" topLine="94" />
+	</File>
+	<File name="graphics.c" open="1" top="0" tabpos="4">
+		<Cursor position="6145" topLine="161" />
+	</File>
+	<File name="leaderboard.c" open="1" top="0" tabpos="10">
+		<Cursor position="3723" topLine="120" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="2233" topLine="244" />
+	</File>
+	<File name="parse_cmd.c" open="1" top="0" tabpos="2">
+		<Cursor position="205" topLine="81" />
+	</File>
+	<File name="physics.c" open="1" top="0" tabpos="13">
+		<Cursor position="1474" topLine="40" />
+	</File>
+	<File name="prototypes.h" open="1" top="0" tabpos="9">
+		<Cursor position="1655" topLine="42" />
+	</File>
+	<File name="random_drops.c" open="1" top="0" tabpos="14">
+		<Cursor position="1830" topLine="30" />
+	</File>
+	<File name="structures.h" open="1" top="0" tabpos="12">
+		<Cursor position="239" topLine="29" />
+	</File>
+	<File name="unicode_art.c" open="1" top="0" tabpos="7">
+		<Cursor position="1403" topLine="0" />
+	</File>
+	<File name="unicode_art.h" open="1" top="0" tabpos="8">
+		<Cursor position="573" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

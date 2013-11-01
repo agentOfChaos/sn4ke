@@ -1,0 +1,1 @@
+#define blastspeed 2
