@@ -1,4 +1,4 @@
-sn4ke v 1.2 by  agentOfChaos  informaniac99 <AT> gmail <DOT> com
+sn4ke v 1.2 by  agentOfChaos  informaniac99  AT gmail DOT com
 
 This is a small snake clone, running on the linux terminal, with ncurses and unicode graphics.
 I've written it for fun, entirely in C.
