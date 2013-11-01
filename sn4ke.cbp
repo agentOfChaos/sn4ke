@@ -30,6 +30,9 @@
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
+					<Add option="-lncursesw" />
+					<Add option="-lssl" />
+					<Add option="-lcrypto" />
 				</Linker>
 			</Target>
 		</Build>
