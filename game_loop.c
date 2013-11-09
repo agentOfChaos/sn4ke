@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <ncursesw/curses.h>
+#include <ncurses.h>
 #include "structures.h"
 #include "prototypes.h"
 #include "unicode_art.h"

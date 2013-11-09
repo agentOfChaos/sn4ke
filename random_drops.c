@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <ncursesw/curses.h>
+#include <ncurses.h>
 #include <math.h>
 #include "structures.h"
 #include "prototypes.h"

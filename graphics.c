@@ -1,7 +1,7 @@
 #define _XOPEN_SOURCE_EXTENDED
 #include <stdio.h>
 #include <stdlib.h>
-#include <ncursesw/curses.h>
+#include <ncurses.h>
 #include <wchar.h>
 #include <string.h>
 #include "structures.h"

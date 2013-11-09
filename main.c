@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <ncursesw/curses.h>
+#include <ncurses.h>
 #include <wchar.h>
 #include <math.h>
 #include <locale.h>
