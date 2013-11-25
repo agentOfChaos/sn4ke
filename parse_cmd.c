@@ -119,7 +119,7 @@ void printHelpExit(vars *varia,char *nome)
         printf("\t-v [num] --velocity [num]\tImposta la velocità di gioco (0-4)\n");
         printf("\t-p --paused\t\t\tInizia il gioco in pausa (solo con -s -d -e -r)\n");
         printf("\t-a --aperture\t\t\tAttiva i portali\n");
-        printf("\t-s --simple-graphic\t\tUsa un set di simboli grafici più semplice e portabile\n");
+        printf("\t-S --simple-graphic\t\tUsa un set di simboli grafici più semplice e portabile\n");
         printf("\t-m [h] [w] --map [h] [w]\tImposta manualmente la dimensione dello schermo (WxH)\n");
         printf("\t-n [nome] --name [nome]\t\tImposta il nome del giocatore a [nome]. Default è env(USER)\n");
         printf("\t-c [mode] --computer [mode]\tAttiva il sottosistema AI. Mode può essere \"no\" oppure \"lazy\". Default è \"no\"\n");
@@ -150,7 +150,7 @@ void printHelpExit(vars *varia,char *nome)
         printf("\t-v [num] --velocity [num]\tSet snake's speed (0-4)\n");
         printf("\t-p --paused\t\t\tStart the game paused (only with -s -d -e -r)\n");
         printf("\t-a --aperture\t\t\tEnable portals\n");
-        printf("\t-s --simple-graphic\t\tUses a more simple and portable set of graphic symbols\n");
+        printf("\t-S --simple-graphic\t\tUses a more simple and portable set of graphic symbols\n");
         printf("\t-m [h] [w] --map [h] [w]\tManually override screen size (WxH)\n");
         printf("\t-n [name] --name [name]\t\tSet player's name as [name]. Default is env(USER)\n");
         printf("\t-c [mode] --computer [mode]\tEnable AI subsystem. Mode can be \"no\" or \"lazy\". Default is \"no\"\n");
